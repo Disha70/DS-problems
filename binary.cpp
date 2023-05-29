@@ -21,6 +21,7 @@ binarySearch(int a[],int n,int target)
         }
 
     }
+    return -1;
 }
 int main()
 {
